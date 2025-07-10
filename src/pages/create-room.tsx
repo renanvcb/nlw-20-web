@@ -34,7 +34,9 @@ export function CreateRoom() {
     <main className="min-h-screen px-8 py-4">
       <div className="mx-auto max-w-4xl">
         <div className="grid grid-cols-2 items-start gap-8">
-          <section />
+          <section>
+            <h2>Parei em 48:26</h2>
+          </section>
 
           <Card>
             <CardHeader>
